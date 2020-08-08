@@ -1,6 +1,6 @@
 // Client Side JavaScript
 
-console.log('Client side JavaScript file is loaded!')
+//console.log('Client side JavaScript file is loaded!')
 
 // Fetch API - Browser based API
 // fetch() allows us to fetch data from the internet and do something with it
