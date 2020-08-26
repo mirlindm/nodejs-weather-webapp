@@ -53,7 +53,7 @@ app.get('/help', (req, res) => {
     res.render('help', {
         title: 'Here to help',
         name: 'Mirlind Murati',
-        message: 'This is some helpful text'
+        message: 'Please provide a clear location (City or Country) in the home page in order to get correct weather. Thank you for using this service!'
     })
 })
 
